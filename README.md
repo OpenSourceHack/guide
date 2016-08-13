@@ -93,7 +93,11 @@ CSS/BootStrap.
 
 #### 8 AM - Breakfast! Build your own breakfast burrito 🌯
 
-#### 10 AM - Workshop: <Insert Workshop Title>
+#### 10 AM - Workshop: How to Pitch your Project - by Epris Blankenship. (30 minutes)
+
+How do you explain what you've built? The impact of what you do is infinitely larger if you can get others excited about it too. This workshop will teach you how to present the amazing project you've been working on the last 24 hours.
+
+Epris Blankenship is the Sales Enablement Lead at GitHub. With extensive experience taking sales teams to the next level, she runs workshops like these for high-tech companies. This particular training was developed while Epris was working with the team at Github. After Raeva went through it, she flat-out insisted that we run this workshop (because it's 🔥). 
 
 #### 12 PM - Hacking Ends! Submission Deadline + Lunch! (Mediterranian noms)
 
