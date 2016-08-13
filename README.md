@@ -15,14 +15,14 @@ AM on Saturday**.
 
 Experts will lead and mentor a team of beginner and intermediate hackers. 
 As an expert, you will get up on stage and give short, 15 second pitches about your
-skills and what you want to build during team building. 
+skills and what you want to build during team building. For seasoned hackers, learning how to mentor is a fun way to share your skills while bringing to life a project you're excited to work on.
 
 Beginners and Intermediate hackers will spend the weekend learning new skills,
 working on awesome projects in teams, all while getting help and support from 
 the team expert. As a beginner, you will listen to the experts pitch and choose
 which project and team you want to work on. 
 
-Teams can be of any size up to 5 participants!
+Teams can be of any size, up to 5 participants!
 
 ## Schedule
 
