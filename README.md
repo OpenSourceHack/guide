@@ -4,7 +4,7 @@
 Please arrive to **GitHub HQ, 88 Colin P Kelly Jr St, San Francisco, CA 94107**
 at **10AM**.
 
-The event will be held on the 1st floor, check in to receive your
+The event will be held on the 1st floor; check in to receive your
 name tag. You will get a **blue** tag if you applied as a beginner or intermediate
 hacker, and a **red** tag if you applied as an expert! Write your name and skills
 on your badge - it will be helpful during the team building session! 🎉
@@ -13,13 +13,16 @@ on your badge - it will be helpful during the team building session! 🎉
 Team building will happen straight after the opening talks - **between 11 and 12
 AM on Saturday**.
 
-Experts will get up on stage and give short, 15 second pitches about their
-skills and what they want to build.
+Experts will lead and mentor a team of beginner and intermediate hackers. 
+As an expert, you will get up on stage and give short, 15 second pitches about your
+skills and what you want to build during team building. 
 
-When all experts have pitched, the beginners get to pick which team they want to
-work in.
+Beginners and Intermediate hackers will spend the weekend learning new skills,
+working on awesome projects in teams, all while getting help and support from 
+the team expert. As a beginner, you will listen to the experts pitch and choose
+which project and team you want to work on. 
 
-Teams are max 5 participants!
+Teams can be of any size up to 5 participants!
 
 ## Schedule
 
