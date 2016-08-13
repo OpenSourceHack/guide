@@ -61,7 +61,7 @@ In @patriciaa's own words:
 from creating a GitHub account to making your first PR, and hopefully using the
 terminal to push changes."
 
-#### 2:15 PM - Workshop: Wizardry with Websockets - Building a real time collabrative whiteboard in the browser. by Sahil Dhanju (1 hour)
+#### 2:45 PM - Workshop: Wizardry with Websockets - Building a real time collabrative whiteboard in the browser. by Sahil Dhanju (1 hour)
 
 Sahil is a fanatic hacker hailing from Texas who recently finished up an
 internship at Google and is the president of TAMUhack, the Texas A&M hackathon.
@@ -69,7 +69,7 @@ He absolutely loves working on anything that's even mildly interesting and
 constantly loves learning new languages and technologies
 (most recently Rust and Martini).
 
-#### 3:30 PM - Clean Code: What it is and why it matters. by Tim Hertweck (15 minutes)
+#### 4:00 PM - Clean Code: What it is and why it matters. by Tim Hertweck (15 minutes)
 
 Making your code readable and maintainable is as important as making it executable.
 Projects and entire companies have failed just because of a messy, unmaintainable
@@ -82,7 +82,7 @@ platform AdWords Next. As a certified software architect he cares a lot about
 code quality. In his spare time Tim likes running and skiing and is always down
 for a jam session on the drums.
 
-#### 4 PM - Workshop: Let's Build a Rails App! by Saundra Castaneda	(1 hour)
+#### 4:30 PM - Workshop: Let's Build a Rails App! by Saundra Castaneda	(1 hour)
 Saundra is an application engineering intern at GitHub this summer. She is a
 rising senior from Chicago studying computer science at DePaul University.
 
@@ -90,7 +90,7 @@ This workshop is for beginner and intermediate developers. You'll learn how to
 make a basic Rails app by creating a blog! We'll be covering Ruby, Rails, and
 CSS/BootStrap.
 
-#### 5 PM - Dinner - Japanese 🍽
+#### 5:15 PM - Dinner - Japanese 🍽
 
 #### 5:30 PM - Workshop: Vimming it up - A soft introduction to the Vim text editor (It won't hurt). by Sahil Dhanju
 
