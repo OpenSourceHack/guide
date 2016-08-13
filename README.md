@@ -94,7 +94,7 @@ CSS/BootStrap.
 
 #### 5:30 PM - Workshop: Vimming it up - A soft introduction to the Vim text editor (It won't hurt). by Sahil Dhanju
 
-#### 7 PM - Games and Mini-Events
+#### 8 PM - Games and Mini-Events
 
 #### 12 AM - Midnight Snack - Pizza! 🍕
 
@@ -120,11 +120,11 @@ to Nick](mailto:nicktikhonov@github.com).
 
 ## Curfew
 
-If you leave the venue after 10PM, you won't be able to return until breakfast - 8AM.
+If you leave the venue __after 10PM__, you won't be able to return until breakfast - 8AM.
 
 ## Contacts
 If anything and everything goes wrong, or you're just wondering where the
-snacks are - ping one of the organizers, they're always happy to help!
+snacks are - ping one of the organizers; they're always happy to help!
 
 * **Nick** - Slack: @nick, Email: nicktikhonov@github.com
 * **Raeva** - Slack: @raeva, Email: raevakumar@github.com
@@ -133,4 +133,6 @@ snacks are - ping one of the organizers, they're always happy to help!
 More details coming soon.
 
 ## Prizes and Swag
-More details coming soon.
+If you __checked in late__ and didn't get a chance to pick up a poster or a t-shirt gift card, we'll be setting up a station after dinner around __7 PM__. We'll put a notice up on Slack when it's time.
+
+More details coming soon!
