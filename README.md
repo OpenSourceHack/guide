@@ -9,6 +9,11 @@ name tag. You will get a **blue** tag if you applied as a beginner or intermedia
 hacker, and a **red** tag if you applied as an expert! Write your name and skills
 on your badge - it will be helpful during the team building session! 🎉
 
+## Wi-Fi
+
+Network Name: **GitHub Guest**
+Password: **octocat11**
+
 ## Team Building
 Team building will happen straight after the opening talks - **between 11 and 12
 AM on Saturday**.
@@ -31,6 +36,8 @@ Teams can be of any size, up to 5 participants!
 #### 11 AM - Opening Talks
 
 #### 12 PM - Hacking Begins! Delicious Korean food for lunch 🍽
+
+#### 1 PM - Talk: From Hackathon to 1 million Users: How to choose the right framework. By Corey Hobbs (30 min)
 
 #### 1:45 PM - Talk: The Beginner's Guide to Ramda. by Christine Legge (Lightning Talk)
 
