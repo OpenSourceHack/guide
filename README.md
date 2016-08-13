@@ -111,6 +111,10 @@ Please be sure to join this channel as this is where all communication related
 to the event will take place - do it! If you don't have an invite, [send an email
 to Nick](mailto:nicktikhonov@github.com).
 
+## Curfew
+
+If you leave the venue after 10PM, you won't be able to return until breakfast - 8AM.
+
 ## Contacts
 If anything and everything goes wrong, or you're just wondering where the
 snacks are - ping one of the organizers, they're always happy to help!
