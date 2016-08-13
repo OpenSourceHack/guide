@@ -82,17 +82,17 @@ platform AdWords Next. As a certified software architect he cares a lot about
 code quality. In his spare time Tim likes running and skiing and is always down
 for a jam session on the drums.
 
-#### 4:30 PM - Workshop: Let's Build a Rails App! by Saundra Castaneda	(1 hour)
-Saundra is an application engineering intern at GitHub this summer. She is a
-rising senior from Chicago studying computer science at DePaul University.
-
 This workshop is for beginner and intermediate developers. You'll learn how to
 make a basic Rails app by creating a blog! We'll be covering Ruby, Rails, and
 CSS/BootStrap.
 
-#### 5:15 PM - Dinner - Japanese 🍽
+#### 5:00 PM - Dinner - Japanese 🍽
 
 #### 5:30 PM - Workshop: Vimming it up - A soft introduction to the Vim text editor (It won't hurt). by Sahil Dhanju
+
+#### 6:15 PM - Workshop: Let's Build a Rails App! by Saundra Castaneda	(1 hour)
+Saundra is an application engineering intern at GitHub this summer. She is a
+rising senior from Chicago studying computer science at DePaul University.
 
 #### 8 PM - Games and Mini-Events
 
