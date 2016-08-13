@@ -11,6 +11,21 @@ on your badge - it will be helpful during the team building session! 🎉
 Team building will happen straight after the opening talks - **between 11 and 12
 AM on Saturday**!
 
+If you're an __expert__ (experienced hacker), you will be pairing with beginner and intermediate hackers to form teams of up to 5. If you're a __beginner__ or intermediate hacker, you'll be selecting a group led by an expert to work on a project together.
+
+For seasoned hackers, learning how to mentor is a fun way to share your skills while bringing to life a project you're excited to work on. For beginners, working on a team with people who've done this before is a great opportunity to learn and removes a lot of friction in getting started.
+
+#### How it's going to work:
+After the opening talks, all the experts will line up and each give a quick introduction: their name, their skill set, and what they might be looking to work on.
+
+#### Experts
+
+Experts, be ready to give a 15-second intro on your skill set and talk about what you're looking to work on.
+__Note:__ You don't have to come in committed to an idea; you can talk about an area of interest if you'd prefer.
+
+#### Beginners and Intermediates
+
+
 ## Schedule
 
 ## Slack
