@@ -1,5 +1,9 @@
 # The Definitive Guide to Open Source Hack 2016
 
+## 🎉 Submitting your project + Prize 🎉
+
+Please follow instructions to join and [submit your project on DevPost](http://open-source-hack.devpost.com/). The submission deadline is **12PM**. You have to submit your project by this time to be eligible for the prize - no exceptions! For judging, you will be using DevPost to vote on your favorite project after the submission deadline. Each member of the winning team (with the most votes) will win an Arduino kit. __Note:__ We'll disable the option to vote for your own team!😏
+
 ## Where and When
 Please arrive to **GitHub HQ, 88 Colin P Kelly Jr St, San Francisco, CA 94107**
 at **10AM**.
