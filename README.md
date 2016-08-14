@@ -132,11 +132,3 @@ snacks are - ping one of the organizers; they're always happy to help!
 
 * **Nick** - Slack: @nick, Email: nicktikhonov@github.com
 * **Raeva** - Slack: @raeva, Email: raevakumar@github.com
-
-## Submitting your project
-More details coming soon.
-
-## Prizes and Swag
-If you __checked in late__ and didn't get a chance to pick up a poster or a t-shirt gift card, we'll be setting up a station after dinner around __7 PM__. We'll put a notice up on Slack when it's time.
-
-More details coming soon!
